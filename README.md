@@ -1,15 +1,5 @@
 # Stage 1 Pre-Registration
-
-**DHS S&T "Ready, Set...ID the Biothreat" Prize Challenge — Stellar Helix**
-Registered **20 October 2026**, before any Challenge data is received. Apache 2.0.
-
 ---
-
-## Purpose
-
-The Challenge reserves measured detection performance for Stage 2. This repository reports none. It exists to fix the metrics, targets, splits and thresholds **now**, publicly and with a timestamp, so that Stage 2 numbers cannot be selected after the fact.
-
-These are thresholds we expect to be held to.
 
 ## Pre-registered metrics
 
